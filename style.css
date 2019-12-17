@@ -1,0 +1,8 @@
+* {
+    //background: #ccc;
+    background-image: url("https://hinhanhdep.vn/wp-content/uploads/2019/07/anh-dep-nhat-the-gioi-ve-thien-nhien.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; /*co dinh hinh anh*/
+    background-position: right top;
+    //background: #ffffff url("http://agilearn.vn/draftfile.php/5/user/draft/600399732/img_tree.png") no-repeat right top;
+}
